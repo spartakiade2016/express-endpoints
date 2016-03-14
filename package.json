@@ -1,0 +1,15 @@
+{
+  "name": "express-endpoints",
+  "version": "1.0.0",
+  "description": "Express middleware to request all registered routes from from a web service",
+  "author": "Andreas Helmberger",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "spartakiade2016/express-endpoints",
+  "keywords": [
+    "express",
+    "middleware",
+    "endpoints",
+    "routes"
+  ]
+}
